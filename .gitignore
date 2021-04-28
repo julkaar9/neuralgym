@@ -1,0 +1,5 @@
+.vscode/
+/cnn/mnist_test.csv
+/cnn/mnist_train.csv
+/mnist_digit/mnist_test.csv
+/mnist_digit/mnist_train.csv
